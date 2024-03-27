@@ -1,8 +1,6 @@
 package Homework.Lesson1;
 
-import java.sql.SQLOutput;
-
-public class HomeWorkApp {
+public class HomeWorkAppL1 {
     public static void main(String[] args) {
 
         printThreeWords();
